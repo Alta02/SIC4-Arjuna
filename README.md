@@ -1,7 +1,7 @@
 # SIC4-Arjuna
 
-[![Made with Raspberry Pi](https://img.shields.io/badge/Made%20with-Raspberry%20Pi-C51A4A.svg)](https://www.raspberrypi.org/)
-[![IoT Platform - Ubidots](https://img.shields.io/badge/IoT%20Platform-Ubidots-00ACD7.svg)](https://ubidots.com/)
+![Made with Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=Raspberry%20Pi&logoColor=white&labelColor=C51A4A)
+![IoT Platform - Ubidots](https://img.shields.io/badge/IoT%20Platform-Ubidots-00ACD7.svg)
 
 ## Overview
 
