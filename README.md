@@ -9,7 +9,7 @@ Proyek ini bertujuan untuk mengembangkan sistem penimbangan berat keripik tempe 
 
 ## Flowchart
 
-![Flowchart](link_ke_flowchart)
+![Flowchart](Flowchart-Sementara.png)
 
 ## List Hardware
 
